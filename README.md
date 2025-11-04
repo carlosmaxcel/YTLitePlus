@@ -89,7 +89,7 @@
 
 8. **iSponsorBlock**: Skips annoying sponsor ads inside YouTube videos.
 
-9. **YouRememberCaption**: Makes YouTube remember your video caption setting.
+9. **YouRememberCaption**: Makes YouTube remember your video caption setting.11
 
 10. **YTNoTracking**: An iOS YouTube Tweak that disables Tracking Parameters in the YouTube App.
 
